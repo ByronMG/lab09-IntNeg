@@ -14,3 +14,8 @@ Puedes instalar los paquetes necesarios ejecutando:
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
+```
+```Ejecutar Python
+python lab09.py
+python lab09-2.py
+
